@@ -6,7 +6,7 @@
 </div>
 
 
-The code for NAACL 2025 paper: [MEDA: Dynamic KV Cache Allocation for Efficient Multimodal Long-Context Inference](https://openreview.net/forum?id=HzBfoUdjHt).
+The code for NAACL 2025 paper: [MEDA: Dynamic KV Cache Allocation for Efficient Multimodal Long-Context Inference](https://arxiv.org/abs/2502.17599).
 <p align="center">
   📃 <a href="https://arxiv.org/abs/2502.17599" target="_blank">[Paper]</a> • 💻 <a href="https://github.com/AIoT-MLSys-Lab/MEDA" target="_blank">[Github]</a> 
 </p>
