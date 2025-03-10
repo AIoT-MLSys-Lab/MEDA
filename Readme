@@ -26,6 +26,7 @@ pip install --upgrade pip
 You can run the inference code using the following command to run the Longbench sample:
 ```bash
 cd Dynamic-MLLMs
+bash download_dataset.sh
 bash ./scripts/meda_eval.sh
 ```
   
