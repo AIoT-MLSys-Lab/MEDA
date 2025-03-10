@@ -1,0 +1,60 @@
+{
+    "text_prior_pivot_merge_0.1_0.1_speed": {
+        "Realistic Temporal": {
+            "ActionLocalization": {},
+            "ActionPrediction": {},
+            "ActionSequence": {},
+            "CharacterOrder": {},
+            "CounterfactualInference": {},
+            "EgocentricNavigation": {},
+            "MovingAttribute": {},
+            "MovingDirection": {},
+            "ObjectExistence": {},
+            "ObjectInteraction": {},
+            "ObjectShuffle": {},
+            "SceneTransition": {},
+            "StateChange": {}
+        },
+        "Realistic Semantic": {
+            "ALFRED": {},
+            "CLEVR-Change": {
+                "Rouge-L f": 0.1546660368651384,
+                "image_quantity_level-Accuracy": {
+                    "Few": 0.1546660368651384,
+                    "Medium": 0,
+                    "Many": 0
+                },
+                "image_quantity_level-Result": {
+                    "Few": [
+                        30.933207373027685,
+                        200
+                    ],
+                    "Medium": [
+                        0,
+                        0
+                    ],
+                    "Many": [
+                        0,
+                        0
+                    ]
+                }
+            },
+            "DocVQA": {},
+            "IEdit": {},
+            "MMCoQA": {},
+            "MultiModalQA": {},
+            "nuscenes": {},
+            "OCR-VQA": {},
+            "SlideVQA": {},
+            "Spot-the-Diff": {},
+            "TQA": {},
+            "WebQA": {},
+            "WikiVQA": {}
+        },
+        "Diagnostic": {
+            "TextNeedleInAHaystack": {},
+            "ImageNeedleInAHaystack": {},
+            "GPR1200": {}
+        }
+    }
+}
