@@ -1,17 +1,15 @@
 
 # MEDA: Dynamic KV Cache Allocation for Efficient Multimodal Long-Context Inference
 
-<div align="center">
-<img src="MEDA.png"> <br>
-</div>
-
-
-The code for NAACL 2025 paper: [MEDA: Dynamic KV Cache Allocation for Efficient Multimodal Long-Context Inference](https://arxiv.org/abs/2502.17599).
+The codebase for NAACL 2025 paper: [MEDA: Dynamic KV Cache Allocation for Efficient Multimodal Long-Context Inference](https://arxiv.org/abs/2502.17599).
 <p align="center">
   📃 <a href="https://arxiv.org/abs/2502.17599" target="_blank">[Paper]</a> • 💻 <a href="https://github.com/AIoT-MLSys-Lab/MEDA" target="_blank">[Github]</a> 
 </p>
 <h5 align="center"> If you find our project helpful, please give us a star ⭐ on GitHub to stay updated.</h5>
 
+<div align="center">
+<img src="MEDA.png"> <br>
+</div>
 
 ## Quick Step to Setup Environment
 We recommend using Anaconda to create a new environment and install the required packages. You can create a new environment and install the required packages using the following commands:
