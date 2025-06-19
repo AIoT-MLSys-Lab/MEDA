@@ -21,7 +21,7 @@ pip install -r requirements.txt
 pip install --upgrade pip  
 ```
 ## Quick Step to Run the Code
-You can run the inference code using the following command to run the Longbench sample:
+You can run the inference code using the following command to run the multimodal long-context sample:
 ```bash
 cd Dynamic-MLLMs
 bash download_dataset.sh
